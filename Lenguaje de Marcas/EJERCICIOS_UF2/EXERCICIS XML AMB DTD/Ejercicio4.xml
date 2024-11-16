@@ -1,0 +1,47 @@
+DTD:
+<!DOCTYPE school [
+<!ELEMENT school (student+)>
+<!ELEMENT student (id, name, age, status)>
+<!ELEMENT id (#REQUIRED)>
+<!ELEMENT name (#REQUIRED)>
+<!ELEMENT age (#REQUIRED)>
+<!ELEMENT status (Active | Inactive | Graduated)(#IMPLIED)>
+]>
+
+<school>
+    <student>
+        <id>a1</id>
+        <name>Juan Perez</name>
+        <age>22</age>
+        <status>Active</status>
+    </student>
+
+    <student>
+        <id>a2</id>
+        <name>Maria Gonzalez</name>
+        <age>20</age>
+        <status>N/A(Not Available)</status>
+    </student>
+    
+    <student>
+        <id>a3</id>
+        <name>Carlos Rodriguez</name>
+        <age>21</age>
+        <status>Inactive</status>
+    </student>
+
+    <student>
+        <id>a4</id>
+        <name>Laura Martinez</name>
+        <age>23</age>
+        <status>Graduated</status>
+    </student>
+
+    <student>
+        <id>a5</id>
+        <name>Andres Lopez</name>
+        <age>19</age>
+        <status>Active</status>
+    </student>
+</school>
+    

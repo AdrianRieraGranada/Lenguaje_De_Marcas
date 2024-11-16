@@ -1,0 +1,23 @@
+<catalogo>
+    <producto1>
+        <nombre>Galaxy Z Fold 5</nombre>
+        <descripcion>Un telefono plegable de ultima generacion</descripcion>
+        <precio>1200€</precio>
+        <caracteristicas>
+            <caracteristica numero="1">7.6 pulgadas AMOLED</caracteristica>
+            <caracteristica numero="2">Snapdragon 8 Gen 2</caracteristica>
+            <caracteristica numero="3">256 GB</caracteristica>
+        </caracteristicas>
+    </producto1>
+
+    <producto2>
+        <nombre>Laptop Dell XPS 13</nombre>
+        <descripcion>Ligera y potente para profesionales</descripcion>
+        <precio>1300</precio>
+        <caracteristicas>
+            <caracteristica numero="1">13.4 pulgadas UHD+</caracteristica>
+            <caracteristica numero="2">Intel Core i7 11th Gen</caracteristica>
+            <caracteristica numero="3">16 GB DDR4</caracteristica>
+        </caracteristicas>
+    </producto2>
+</catalogo>

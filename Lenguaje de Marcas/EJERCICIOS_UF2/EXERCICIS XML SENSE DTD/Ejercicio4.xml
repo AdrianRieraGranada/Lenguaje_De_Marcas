@@ -1,0 +1,51 @@
+<productosTienda>
+    <producto1>
+        <codigoUnico>001-GXZ5</codigoUnico>
+        <nombre>Galaxy Z Fold 5</nombre>
+        <descripcion>Telefono plegable con pantalla AMOLED</descripcion>
+        <precio>1800€</precio>
+        <categoria>Electronica</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagenURL>https://www.samsung.com/galaxy-z-fold5</imagenURL>
+    </producto1>
+
+    <producto2>
+        <codigoUnico>002-DXPS13</codigoUnico>
+        <nombre>Laptop Dell XPS 13</nombre>
+        <descripcion>Laptop ligera y potente</descripcion>
+        <precio>1300</precio>
+        <categoria>Informatica</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagenURL>https://www.dell.com/en-us/shop/dell-laptops</imagenURL>
+    </producto2>
+
+    <producto3>
+        <codigoUnico>003-PS5DE</codigoUnico>
+        <nombre>Playstation 5 Digital Edition</nombre>
+        <descripcion>Consola de videojuegos de ultima generacion</descripcion>
+        <precio>400€</precio>
+        <categoria>Videojuegos</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagenURL>https://www.playstation.com/en-us/ps5</imagenURL>
+    </producto3>
+
+    <producto4>
+        <codigoUnico>004-MACM2</codigoUnico>
+        <nombre>MacBook Air M2</nombre>
+        <descripcion>Portal ultraligera con el potente chip M2</descripcion>
+        <precio>1400€</precio>
+        <categoria>Informatica</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagenURL>https://www.apple.com/macbook-air</imagenURL>
+    </producto4>
+
+    <producto5>
+        <codigoUnico>005-XBXSS</codigoUnico>
+        <nombre>Xbox Series S</nombre>
+        <descripcion>Consola de videojuegos compacta y completamente digital</descripcion>
+        <precio>300</precio>
+        <categoria>Videojuegos</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagenURL>https://www.xbox.com/en-us/consoles/xbox-series-s</imagenURL>
+    </producto5>
+</productosTienda>
